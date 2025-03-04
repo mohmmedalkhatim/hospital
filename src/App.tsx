@@ -8,7 +8,6 @@ function App() {
   return (
     <AppShell>
       <Header />
-      <Navbar />
     </AppShell>
   )
 }
